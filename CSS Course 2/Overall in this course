@@ -12,4 +12,4 @@ Overall what i learn on this course:
  - i cheated on box model, because i misread that the p tag need 0 margin
  - and i don't understand why i need to put border-width, why not a normal border? because what i understand is, border can have short-hand, like:
  border: 10px black solid.
-- i watched again. apparently, border is simply for short-hand only. but border-width is something specific, to rule how big or small that border is.
+ - i watched again. apparently, border is simply for short-hand only. but border-width is something specific, to rule how big or small that border is.
