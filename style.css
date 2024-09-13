@@ -1,0 +1,75 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+#banner-container{
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10px;
+    height: 400px;
+}
+
+
+#hero-container{
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 400px;
+}
+
+.hero-photo{
+    height: 200px;
+    border-radius: 50%;
+}
+
+
+#skill-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mid{
+    text-align: center;
+}
+
+
+.right-side{
+    float: right;
+}
+
+
+#closing-container{
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.button{
+    background-color: aqua;
+    border-radius: 50px;
+    width: 100px;
+}
+
+
+#footer-container{
+    display:flex;
+    gap: 20px;
+    justify-content:space-around;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+    height: 200px;
+}
